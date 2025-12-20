@@ -1,7 +1,7 @@
 ### Olá!! Me chamo Nathan Souza
 
 - 📚 Formado em ánalise e desenvolvimento de sistemas.
-- 📚 Desenvolvedor Backend: Java | Spring Boot | PostgreSQL | Mongo DB | Docker | Javascript | Typescript | React
+- 📚 Desenvolvedor Junior: React | Javascript | Typescript | Tailwind CSS | Node | Nest JS | PostgreSQL | Mongo DB | Docker | Java | Spring Boot
 
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
